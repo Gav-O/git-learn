@@ -1,7 +1,5 @@
 body, html {
-	margin: 0px;
-	background: olive;
-}
-h1 {
-	color: cyan;
+	background: #333;
+	font-family: fantasy;
+	color: white
 }
