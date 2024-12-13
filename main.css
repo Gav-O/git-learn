@@ -1,0 +1,7 @@
+body, html: {
+	margin: 0px;
+	background: 'purple'
+}
+h1: {
+	color: cyan;
+}
